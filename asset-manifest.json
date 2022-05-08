@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/caronrent/static/css/main.9fab4de0.css",
+    "main.css": "/caronrent/static/css/main.6029b28b.css",
     "main.js": "/caronrent/static/js/main.34a93f12.js",
     "index.html": "/caronrent/index.html",
-    "main.9fab4de0.css.map": "/caronrent/static/css/main.9fab4de0.css.map",
+    "main.6029b28b.css.map": "/caronrent/static/css/main.6029b28b.css.map",
     "main.34a93f12.js.map": "/caronrent/static/js/main.34a93f12.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fab4de0.css",
+    "static/css/main.6029b28b.css",
     "static/js/main.34a93f12.js"
   ]
 }
